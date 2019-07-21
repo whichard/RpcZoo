@@ -1,7 +1,7 @@
 # RpcZoo
 
 手写一个简单rpc框架，示意图如下：
-
+![](http://ww1.sinaimg.cn/large/e069f60egy1g57a7n6j94j20nw0dm74u.jpg)
 
 实现的主要内容包括：
 
